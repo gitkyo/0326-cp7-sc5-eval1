@@ -322,67 +322,129 @@ Avez vous des erreurs ?
 
 ---
 
-### 📝 Étape 6 : répondez au QCM (20 questions)
+### 📝 Étape 6 : Répondez au QCM (20 questions)
 
 **1. Quelle balise HTML est la plus appropriée pour structurer un formulaire de contact ?**
-A) <div>   B) <form>   C) <section>   D) <input>
+- A) `<div>`   
+- B) `<form>`   
+- C) `<section>`   
+- D) `<input>`
 
 **2. Quel attribut HTML rend un champ obligatoire ?**
-A) required   B) checked   C) disabled   D) autofocus
+- A) `required`   
+- B) `checked`   
+- C) `disabled`   
+- D) `autofocus`
 
 **3. Quelle propriété CSS permet de rendre un site responsive ?**
-A) float   B) z-index   C) @media   D) opacity
+- A) `float`   
+- B) `z-index`   
+- C) `@media`   
+- D) `opacity`
 
-**4. Quel est le rôle de la balise <label> ?**
-A) Ajouter du style   B) Associer un texte à un champ   C) Créer un bouton   D) Ajouter une image
+**4. Quel est le rôle de la balise `<label>` ?**
+- A) Ajouter du style   
+- B) Associer un texte à un champ   
+- C) Créer un bouton   
+- D) Ajouter une image
 
 **5. Quelle unité est la plus adaptée pour des marges fluides en responsive ?**
-A) px   B) em   C) %   D) rem
+- A) `px`   
+- B) `em`   
+- C) `%`   
+- D) `rem`
 
-**6. Que fait la propriété CSS 'flex-direction: row;' ?**
-A) Aligne horizontalement   B) Aligne verticalement   C) Cache les éléments   D) Change la couleur
+**6. Que fait la propriété CSS `flex-direction: row;` ?**
+- A) Aligne horizontalement   
+- B) Aligne verticalement   
+- C) Cache les éléments   
+- D) Change la couleur
 
-**7. Quel attribut HTML améliore l’accessibilité d’une image ?**
-A) alt   B) src   C) href   D) class
+**7. Quel attribut HTML améliore l'accessibilité d'une image ?**
+- A) `alt`   
+- B) `src`   
+- C) `href`   
+- D) `class`
 
-**8. Quelle règle CSS cible le focus d’un champ ?**
-A) input:focus   B) .focus   C) input:hover   D) input:active
+**8. Quelle règle CSS cible le focus d'un champ ?**
+- A) `input:focus`   
+- B) `.focus`   
+- C) `input:hover`   
+- D) `input:active`
 
-**9. Quel est l’intérêt d’utiliser 'aspect-ratio' en CSS ?**
-A) Définir la couleur   B) Gérer la proportion largeur/hauteur   C) Ajouter une ombre   D) Centrer le texte
+**9. Quel est l'intérêt d'utiliser `aspect-ratio` en CSS ?**
+- A) Définir la couleur   
+- B) Gérer la proportion largeur/hauteur   
+- C) Ajouter une ombre   
+- D) Centrer le texte
 
-**10. Que fait l’attribut 'loading="lazy"' sur une iframe ?**
-A) Charge immédiatement   B) Charge en différé   C) Empêche l’affichage   D) Change la couleur
+**10. Que fait l'attribut `loading="lazy"` sur une iframe ?**
+- A) Charge immédiatement   
+- B) Charge en différé   
+- C) Empêche l'affichage   
+- D) Change la couleur
 
-**11. Quelle propriété CSS permet d’arrondir les coins d’un bouton ?**
-A) border-radius   B) border-style   C) outline   D) box-shadow
+**11. Quelle propriété CSS permet d'arrondir les coins d'un bouton ?**
+- A) `border-radius`   
+- B) `border-style`   
+- C) `outline`   
+- D) `box-shadow`
 
-**12. Quel est le rôle de 'transition' en CSS ?**
-A) Changer la police   B) Animer un changement   C) Ajouter une image   D) Créer une bordure
+**12. Quel est le rôle de `transition` en CSS ?**
+- A) Changer la police   
+- B) Animer un changement   
+- C) Ajouter une image   
+- D) Créer une bordure
 
 **13. Quelle balise HTML est sémantique pour un contenu principal ?**
-A) <main>   B) <div>   C) <span>   D) <footer>
+- A) `<main>`   
+- B) `<div>`   
+- C) `<span>`   
+- D) `<footer>`
 
-**14. Que permet la propriété 'box-shadow' ?**
-A) Ajouter une ombre   B) Changer la taille   C) Mettre en italique   D) Centrer un élément
+**14. Que permet la propriété `box-shadow` ?**
+- A) Ajouter une ombre   
+- B) Changer la taille   
+- C) Mettre en italique   
+- D) Centrer un élément
 
-**15. Quel est l’avantage du mobile first ?**
-A) Plus rapide sur mobile   B) Plus facile à coder   C) Meilleure compatibilité   D) Moins de code
+**15. Quel est l'avantage du mobile first ?**
+- A) Plus rapide sur mobile   
+- B) Plus facile à coder   
+- C) Meilleure compatibilité   
+- D) Moins de code
 
 **16. Quelle balise HTML est adaptée pour un menu de navigation ?**
-A) <nav>   B) <ul>   C) <header>   D) <section>
+- A) `<nav>`   
+- B) `<ul>`   
+- C) `<header>`   
+- D) `<section>`
 
-**17. Que fait '@keyframes' en CSS ?**
-A) Définit une animation   B) Crée une grille   C) Ajoute une image   D) Change la couleur
+**17. Que fait `@keyframes` en CSS ?**
+- A) Définit une animation   
+- B) Crée une grille   
+- C) Ajoute une image   
+- D) Change la couleur
 
 **18. Quel attribut HTML relie un label à un champ ?**
-A) for   B) id   C) name   D) class
+- A) `for`   
+- B) `id`   
+- C) `name`   
+- D) `class`
 
 **19. Quelle propriété CSS permet de centrer horizontalement un bloc avec une largeur fixe ?**
-A) margin: 0 auto;   B) text-align: center;   C) float: left;   D) display: block;
+- A) `margin: 0 auto;`   
+- B) `text-align: center;`   
+- C) `float: left;`   
+- D) `display: block;`
 
 **20. Pourquoi utiliser des balises sémantiques ?**
-A) Pour le SEO et l’accessibilité   B) Pour la couleur   C) Pour la rapidité   D) Pour le fun
+- A) Pour le SEO et l'accessibilité   
+- B) Pour la couleur   
+- C) Pour la rapidité   
+- D) Pour le fun
+
+---
 
 ### 🤔 Bilan & Réflexion
 
