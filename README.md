@@ -448,4 +448,6 @@ Avez vous des erreurs ?
 
 ### 🤔 Bilan & Réflexion
 
-💬 **Session de debriefing** : Prenez quelques minutes pour regarder ce que vous avez fait, notez les points délicats que vous ne comprenez pas pour questionner le groupe ou le formateur à la suite.
+💬 **Session de debriefing** : Prenez quelques minutes pour regarder ce que vous avez fait, notez les points délicats que vous ne comprenez pas pour questionner le groupe ou le formateur à la suite. Ecrivez un petit paragraphe avec vos ressentis, vos difficultés rencontrés depuis le début du module et comment vous les avez résolus.
+
+🎉 **Félicitations ! Vous êtes arrivé au bout de cet exercice pratique !**
