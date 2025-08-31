@@ -11,6 +11,7 @@ Vous êtes **Concepteur Designer UI**. Après la page d’accueil, Éléonore so
 - ✅ Lien vers la page d’accueil
 
 **Votre mission** : Concevoir une page contact responsive, accessible, et animée, avec formulaire, carte, et informations de contact.
+
 **À chaque étape, répondez aux questions dans un fichier à rendre avec votre projet.**
 
 ---
@@ -40,7 +41,7 @@ Votre approche doit être :
 
 ## 📋 Progression Détaillée de l’Exercice (5h)
 
-### ⚡ Étape 0 : Récupérer le code de votre ancien projet ou repartez du corrigé accessible ici [https://github.com/gitkyo/0326-cp7-sc4-ex1]
+### Étape 0 : Récupérer le code de votre ancien projet ou repartez du corrigé accessible sur ce lien [https://github.com/gitkyo/0326-cp7-sc4-ex1]
 
 - Cliquer sur le call to action (vert) avec écrit "<> code" et sélectionnez "Download ZIP"
 - Décompressez le dossier
