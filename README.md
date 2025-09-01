@@ -1,4 +1,4 @@
-# 📬 Exercice Pratique de 5h : « La page de contact interactive du Portfolio d’Éléonore »
+# 📬 Exercice Pratique : « La page de contact interactive du Portfolio d’Éléonore »
 
 **Mission** : Créer la page de contact du portfolio d’Éléonore, photographe d’art contemporain.
 
@@ -39,7 +39,7 @@ Votre approche doit être :
 
 ---
 
-## 📋 Progression Détaillée de l’Exercice (5h)
+## 📋 Progression Détaillée de l’Exercice
 
 ### Étape 0 : Récupérer le code de votre ancien projet ou repartez du corrigé accessible sur ce lien [https://github.com/gitkyo/0326-cp7-sc4-ex1]
 
@@ -142,7 +142,7 @@ Après :
 
 ---
 
-### 🎨 Étape 2 : Stylisation CSS et Responsive (1h30)
+### 🎨 Étape 2 : Stylisation CSS et Responsive
 
 **Objectif** : Styliser la page et la rendre responsive.
 
@@ -246,7 +246,7 @@ aside{
 
 ---
 
-### 🗺️ Étape 3 : Carte interactive et accessibilité (1h)
+### 🗺️ Étape 3 : Carte interactive et accessibilité
 
 **Objectif** : Ajouter la carte et améliorer l’accessibilité.
 
@@ -275,7 +275,7 @@ aside{
 
 ---
 
-### ✨ Étape 4 : Animations et finitions (1h)
+### ✨ Étape 4 : Animations et finitions
 
 **Objectif** : Ajouter des animations CSS et peaufiner la page.
 
