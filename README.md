@@ -59,7 +59,7 @@ Votre approche doit être :
 
 #### 1.2 Structure de la page
 
-- Éditez le header de la page index.html afin d'adapter la navigation de notre futur nouvelle page contact : il s'agit de changer la valeur de l'attribut href des balises <a> du menu pour le lien vers la page contact ainsi que celui vers la page d'accueil. Exemple :
+- Éditez le header de la page index.html afin d'adapter la navigation au vu de notre futur nouvelle page contact : il s'agit de changer la valeur de l'attribut href des balises <a> du menu pour le lien vers la page contact ainsi que celui vers la page d'accueil. Exemple :
 
 Avant :
 
@@ -79,7 +79,7 @@ Après :
 <li><a href="contact.html">Contact</a></li>
 ```
 
-- Puis copiez-collez le code ci dessous, adaptez la structure suivante pour reprendre __le header et le footer__ de la page index.html :
+- Puis copiez-collez le code ci dessous dans le fichier contact.html, adaptez la structure suivante pour reprendre __le header et le footer__ de la page index.html :
 
 ```html
 <!DOCTYPE html>
