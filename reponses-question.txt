@@ -1,0 +1,135 @@
+Question : Pourquoi séparer le CSS de la page contact ?
+- Pour des raisons de maintenabilité, ce n'est pas obligatoire mais plus pratique. 
+- Peut être intéressant pour des riaons de performances.
+
+À quoi servent les balises <section>, <aside>, <form> ?
+form - formulaire
+section - fold une partie du site qui regroupe plusieurs éléments
+aside - barre latéral
+A donner du sens, ce sont des balises sémantiques qui sont reconnu par les moteurs de recherches
+Avoir un meilleur référencement
+
+Tester votre site et naviguez entre les différentes pages, que remarquez vous ?
+Il existe deux types de lien, ce n'est plus un site onePage
+
+
+Quelle différence entre ces deux types de liens et comment les appelles t'on ?
+Il y a des liens de types ancres HTML (portfolio et A propos) et des lien internes comme accueil et contact
+
+<li><a href="index.html#about">À propos</a></li>   --> Ancres HTML
+<li><a href="contact.html">Contact</a></li>      --> Liens internes
+
+En savoir + : https://developer.mozilla.org/fr/docs/Web/HTML/Reference/Elements/a
+
+Que fait la propriété flex-direction ?
+Définir le positionnement vertical (ligne ou colonne)
+
+Testez la page sur mobile et desktop : que remarquez-vous ?
+un point de rupture à 768px ou les éléments vont changer de style
+
+Pourquoi utiliser @media (min-width: 768px) ?
+Pour déinir du style pour les écrans > 768px
+
+
+Quelle différence avec @media (max-width: 768px) ?
+Pour déinir du style pour les écrans < 768px
+
+Pourquoi utiliser iframe ?
+Pour embarquer du contenu externe
+
+Que fait l’attribut loading="lazy" ? (Vous pouvez vous aider d'internet)
+Chargement différé, chargement petit à petit. Très utile lorsque le site contient bcpo de médias
+
+Tester votre page
+ok
+
+Pourquoi l’accessibilité est-elle importante ?
+Pour répondre aux exigences du cahier des charges / client
+
+Que se passe-t-il si un champ n’a pas de label ?
+Erreur au validateur w3c
+
+Animation : Tester votre page, que remarquez vous ?
+On observe l'animation sur le formulaire et la carte lors du charegment de la page
+
+Ajout de l'effet focus : Tester votre page, que remarquez vous ?
+border coloré lors de la selection du champs
+
+A votre avis, que fait @keyframes fadeInUp ?
+Définit l'anamtion (fade)
+
+Pourquoi styliser le focus sur le formulaire ?
+Pour améliorer l'UX
+
+Répondez au QCM (20 questions)
+
+Quelle balise HTML est la plus appropriée pour structurer un formulaire de contact ?
+<form>
+
+Quel attribut HTML rend un champ obligatoire ?
+required
+
+Quelle propriété CSS permet de rendre un site responsive ?
+@media la media querie
+
+Quel est le rôle de la balise <label> ?
+Associer un texte à un champ
+
+Quelle unité est la plus adaptée pour des marges fluides en responsive ?
+C) %
+
+Que fait la propriété CSS flex-direction: row; ?
+A) Aligne horizontalement
+
+Quel attribut HTML améliore l'accessibilité d'une image ?
+A) alt
+
+Quelle règle CSS cible le focus d'un champ ?
+A) input:focus
+
+PS: si l'on souhaite un style particulier lors du survol d'un element, on va utiliser :hover
+
+Quel est l'intérêt d'utiliser aspect-ratio en CSS ?
+B) Gérer la proportion largeur/hauteur
+
+Que fait l'attribut loading="lazy" sur une iframe ?
+B) Charge en différé
+
+Quelle propriété CSS permet d'arrondir les coins d'un bouton ?
+A) border-radius
+
+Quel est le rôle de transition en CSS ?
+B) Animer un changement
+
+13. Quelle balise HTML est sémantique pour un contenu principal ?
+A) <main>
+
+14. Que permet la propriété box-shadow ?
+A) Ajouter une ombre
+ps : box shadow pour les boites, il existe aussi text-shadow pour les textes
+
+15. Quel est l'avantage du mobile first ?
+C) Meilleure compatibilité
+
+16. Quelle balise HTML est adaptée pour un menu de navigation ?
+A) <nav>
+
+17. Que fait @keyframes en CSS ?
+A) Définit une animation
+
+18. Quel attribut HTML relie un label à un champ ?
+A) for
+
+19. Quelle propriété CSS permet de centrer horizontalement un bloc avec une largeur fixe ?
+A) margin: 0 auto;
+
+On peut utiliser text-align: center; si c'était du texte
+
+20. Pourquoi utiliser des balises sémantiques ?
+A) Pour le SEO et l'accessibilité
+
+
+
+
+
+

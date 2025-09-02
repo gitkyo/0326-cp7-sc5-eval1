@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Contact - Éléonore Photographe</title>
+	<link rel="stylesheet" href="styles.css">
+	<link rel="stylesheet" href="contact.css">
+</head>
+<body>
+	<!-- Header réutilisé -->
+	 <header class="header">
+        <div class="container">
+            <div class="logo">
+                <h1>Éléonore</h1>
+                <span>Photographe d'Art</span>
+            </div>
+            <nav class="nav">
+                <ul>
+                   <li><a href="index.html">Accueil</a></li>
+                    <li><a href="index.html#portfolio">Portfolio</a></li>
+                    <li><a href="index.html#about">À propos</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+	<main>
+		<section class="contact-hero">
+			
+			<p>Une question, un projet ? Écrivez-moi ou venez me rencontrer à l’atelier !</p>
+		</section>
+		<section class="contact-content">
+			<form class="contact-form">
+				<h2>Formulaire de Contact</h2>
+				<label for="name">Nom</label>
+				<input type="text" id="name" name="name" required>
+				<label for="email">Email</label>
+				<input type="email" id="email" name="email" required>
+				<label for="message">Message</label>
+				<textarea id="message" name="message" required></textarea>
+				<button type="submit">Envoyer</button>
+			</form>
+			<aside class="contact-infos">
+				<h2>Coordonnées</h2>
+				<p>📍 12 rue de l’Atelier, 75000 Paris</p>
+				<p>📞 01 23 45 67 89</p>
+				<p>✉️ eleonore.photo@email.com</p>
+				<div class="contact-map">
+					<!-- Iframe Google Maps ici -->
+                     <iframe src="https://www.openstreetmap.org/export/embed.html?bbox=2.2945,48.8584,2.2955,48.8594&amp;layer=mapnik" style="border:0; width:100%; height:100%;" allowfullscreen="" loading="lazy"></iframe>
+				</div>
+			</aside>
+		</section>
+	</main>
+	<!-- Footer réutilisé -->
+	<footer class="footer">
+        <div class="container">
+            <div class="container-flex">
+
+                <div class="col">
+                    <h3>Contact</h3>
+                    <p>Email: contact@eleonore.com</p>
+                    <p>Téléphone: 0123456789</p>
+                </div>
+
+                <div class="col">
+                    <h3>À propos</h3>
+                    <p>Photographe professionnelle spécialisée dans les portraits et la photographie de paysage.</p>
+                </div>
+
+                <div class="col">
+                    <h3>Services</h3>
+                    <p>Photographie de mariage</p>
+                    <p>Portraits en studio</p>
+                    <p>Photographie de paysage</p>
+                </div>
+
+            </div>
+
+        <p>&copy; 2024 Éléonore - Tous droits réservés</p>
+
+        </div>
+    </footer>
+</body>
+</html>

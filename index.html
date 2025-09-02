@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Éléonore - Photographe d'Art</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <div class="logo">
+                <h1>Éléonore</h1>
+                <span>Photographe d'Art</span>
+            </div>
+            <nav class="nav">
+                <ul>
+                   <li><a href="index.html">Accueil</a></li>
+                    <li><a href="index.html#portfolio">Portfolio</a></li>
+                    <li><a href="index.html#about">À propos</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <!-- <section id="accueil" class="hero">
+            <div class="hero-content">
+                <h2>Capturer l'émotion dans chaque instant</h2>
+                <p>Découvrez l'univers photographique d'Éléonore, où l'art rencontre la réalité.</p>
+                <a href="#portfolio" class="btn-primary">Voir le Portfolio</a>
+            </div>
+        </section> -->
+
+        <section id="accueil" class="hero">
+            <video class="hero-video" autoplay muted loop>
+                <source src="ressources/video-libre1920_1080_30fps.mp4" type="video/mp4">                
+            </video>
+            <div class="hero-overlay"></div>
+            <div class="hero-content">
+                <h2>Capturer l'émotion dans chaque instant</h2>
+                <p>Découvrez l'univers photographique d'Éléonore, où l'art rencontre la réalité.</p>
+                <a href="#portfolio" class="btn-primary">Voir le Portfolio</a>
+            </div>
+        </section>
+
+        <!-- <section id="portfolio" class="portfolio">
+            <div class="container">
+                <h2>Mes Œuvres</h2>
+                
+                <div class="carousel-container">
+                
+                </div>
+            </div>
+        </section> -->
+
+        <section id="portfolio" class="portfolio">
+            <div class="container">
+                <h2>Mes Œuvres</h2>
+                
+                <!-- Carrousel principal -->
+                <div class="carousel">
+                    <div class="carousel-container">
+                        <div class="carousel-slide active">
+                            <img src="ressources/slide-1.jpg" alt="Œuvre 1">
+                            <div class="slide-info">
+                                <h3>Lumières urbaines</h3>
+                                <p>Série photographique sur la ville la nuit</p>
+                            </div>
+                        </div>
+                        <div class="carousel-slide">
+                            <img src="ressources/slide-2.jpg" alt="Œuvre 2">
+                            <div class="slide-info">
+                                <h3>Portraits d'âmes</h3>
+                                <p>Exploration de l'émotion humaine</p>
+                            </div>
+                        </div>
+                        <div class="carousel-slide">
+                            <img src="ressources/slide-3.jpg" alt="Œuvre 3">
+                            <div class="slide-info">
+                                <h3>Nature abstraite</h3>
+                                <p>Formes et textures naturelles</p>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <!-- Contrôles du carrousel -->
+                    <button class="carousel-btn prev" onclick="changeSlide(-1)">❮</button>
+                    <button class="carousel-btn next" onclick="changeSlide(1)">❯</button>
+                    
+                    <!-- Indicateurs -->
+                    <div class="carousel-indicators">
+                        <span class="indicator active" onclick="currentSlide(1)"></span>
+                        <span class="indicator" onclick="currentSlide(2)"></span>
+                        <span class="indicator" onclick="currentSlide(3)"></span>
+                    </div>
+                </div>
+                
+                <!-- Galerie secondaire -->
+                <div class="gallery">
+                    <h3>Galerie</h3>
+                    <div class="gallery-grid">
+                        <div class="gallery-item">
+                            <img src="ressources/thumb-1.jpg" alt="Miniature 1">
+                            <div class="gallery-overlay">
+                                <span>Voir plus</span>
+                            </div>
+                        </div>
+                        <div class="gallery-item">
+                            <img src="ressources/thumb-2.jpg" alt="Miniature 2">
+                            <div class="gallery-overlay">
+                                <span>Voir plus</span>
+                            </div>
+                        </div>
+                        <div class="gallery-item">
+                            <img src="ressources/thumb-3.jpg" alt="Miniature 3">
+                            <div class="gallery-overlay">
+                                <span>Voir plus</span>
+                            </div>
+                        </div>
+                        <div class="gallery-item">
+                            <img src="ressources/thumb-4.jpg" alt="Miniature 4">
+                            <div class="gallery-overlay">
+                                <span>Voir plus</span>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section id="about" class="about">
+            <div class="container">
+                <h2>À propos</h2>
+                <p>Passionnée par la photographie depuis plus de 10 ans...</p>
+            </div>
+        </section>
+    </main>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="container-flex">
+
+                <div class="col">
+                    <h3>Contact</h3>
+                    <p>Email: contact@eleonore.com</p>
+                    <p>Téléphone: 0123456789</p>
+                </div>
+
+                <div class="col">
+                    <h3>À propos</h3>
+                    <p>Photographe professionnelle spécialisée dans les portraits et la photographie de paysage.</p>
+                </div>
+
+                <div class="col">
+                    <h3>Services</h3>
+                    <p>Photographie de mariage</p>
+                    <p>Portraits en studio</p>
+                    <p>Photographie de paysage</p>
+                </div>
+
+            </div>
+
+        <p>&copy; 2024 Éléonore - Tous droits réservés</p>
+
+        </div>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
